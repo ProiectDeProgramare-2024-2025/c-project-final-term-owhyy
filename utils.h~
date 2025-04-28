@@ -1,0 +1,3 @@
+#define BLUE(string) "\x1b[34m" string "\x1b[0m" 
+#define RED(string) "\x1b[31m" string "\x1b[0m" 
+#define GREEN(string) "\e[0;32m" string "\e[0;32m"
